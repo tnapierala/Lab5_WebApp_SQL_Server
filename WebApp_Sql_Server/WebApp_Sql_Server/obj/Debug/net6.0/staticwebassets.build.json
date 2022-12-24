@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "fJCBpUPiLKCeyH4nubYPJz5E9nGLb2k+ItoFvoIXms8=",
+  "Source": "WebApp_Sql_Server",
+  "BasePath": "_content/WebApp_Sql_Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
