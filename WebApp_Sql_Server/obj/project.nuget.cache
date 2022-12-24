@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xU9U4LCpwopA9EnI3nNnVYMV8HAmC6c+tb9q2Bg7VE0Fg7+a+Hs61tYZRv9xrQDXYU9zTShoh4r0hNL6YEYBzA==",
+  "dgSpecHash": "UjrPYrlNvE36hlCHx7R4dlbf/qhr/JEsx3TDD3MCV3NjviHDez2RE9WStculARL12Gp6RyzEvX/n1u8YPjQrsw==",
   "success": true,
-  "projectFilePath": "C:\\$Repos\\WebApp-SQL_Azure\\WebApp_Sql_Server\\WebApp_Sql_Server\\WebApp_Sql_Server.csproj",
+  "projectFilePath": "C:\\$Repos\\WebApp-SQL_Azure\\WebApp_Sql_Server\\WebApp_Sql_Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tomek\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Tomek\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
